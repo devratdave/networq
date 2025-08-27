@@ -2,7 +2,7 @@
 
 ## 🔗 Live Website
 
-[networq](https://networq-rho.vercel.app)
+[networq](https://networq-cu1z.vercel.app/)
 
 ## 🧱 Tech Stack
 - **Next.js App Router**
