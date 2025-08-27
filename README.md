@@ -1,4 +1,7 @@
-# 🚀 Project Highlights
+# 🚀 Welcome to NETWORQ
+
+
+![alt text](/public/thumbnail.png)
 
 ## 🔗 Live Website
 
