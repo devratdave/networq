@@ -1,8 +1,5 @@
 # 🚀 Project Highlights
 
-![Preview Image](public/thumbnail.png)
-
----
 ## 🔗 Live Website
 
 [networq](https://networq-rho.vercel.app)
@@ -27,6 +24,33 @@
 
 ---
 
+## ⚙️ Setup Instructions
+
+### 1. Copy `.env.example` File
+
+```
+mv .env.example .env
+```
+
+### 2. Create API Keys
+
+- Clerk - https://clerk.com/
+- UploadThing - https://uploadthing.com/
+- Neon DB - https://neon.com/
+
+### 3. Install the dependencies
+
+```bash
+npm install
+```
+### 4. Run the App
+
+```bash
+npm run dev
+```
+
+---
+
 ## 🎨 UI & Styling
 
 - Tailwind CSS
@@ -46,22 +70,3 @@
 - Integrated with Prisma ORM
 - Server Actions & Form Handling
 - Optimistic UI Updates
-
----
-
-## ⚙️ Setup Instructions
-
-### 1. Create `.env` File
-
-```env
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-DATABASE_URL=
-UPLOADTHING_TOKEN=
-```
-
-### 2. Run the App
-
-```bash
-npm run dev
-```
